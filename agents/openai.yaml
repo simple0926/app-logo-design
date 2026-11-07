@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Logo 设计"
+  short_description: "从用户第一判断与生活意象出发，生成并验证有产品个性的 App Logo"
+  default_prompt: "请使用 $app-logo-design，根据产品定位和希望用户产生的第一感受设计 App Logo。"
